@@ -1,0 +1,28 @@
+
+
+
+.sendRequest{
+    width : 50% ; 
+    margin : auto;
+    text-align : center ; 
+    margin:auto; margin-top:10px; 
+    margin-bottom:10px; background-color:#f8f1e4; 
+    border:2px solid red;
+    box-shadow:4px 1px 20px black;
+    
+
+}
+
+.table {
+    width : 80% ;  
+    margin :30px auto ; 
+}
+
+.table tr{
+    display : flex ; 
+    justify-content : space-between ; 
+    padding : 20px 0 ; 
+}
+
+ 
+

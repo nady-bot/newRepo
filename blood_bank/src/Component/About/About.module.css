@@ -1,0 +1,13 @@
+.floated {
+    float: left;
+    width: 60%;
+   
+}
+.textFloat {
+    text-align: justify;
+    float: right;
+    
+}
+.clear {
+    clear: both;
+}

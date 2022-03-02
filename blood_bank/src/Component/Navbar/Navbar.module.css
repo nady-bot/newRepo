@@ -1,0 +1,26 @@
+
+
+
+.navbar{
+
+    background-color : #CF797E !important ; 
+    color : #E5E5E5 ; 
+    padding : 0 !important ; 
+}
+
+.navbar a {
+
+    color : #E5E5E5  !important; 
+    padding : 15px  20px  ; 
+    flex-grow : 1 !important  ; 
+}
+
+.navbar_a:hover { 
+
+    color: #D13949  !important;
+    background: #E5E5E5;
+    border-radius: 5px 5px 0 0  ;
+    text-shadow: 0 1px 0 #ebebeb    ;
+    box-shadow: inset 0px -2px 4px #9c9797;
+
+}
