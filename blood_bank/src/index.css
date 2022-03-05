@@ -19,6 +19,18 @@ code {
     monospace;
 }
 
+.bg-sherd{
+  margin-bottom:10px; background-color:#f8f1e4; 
+}
+
+.border-sherd{
+  border:2px solid red;
+}
+
+.box-sherd{
+  box-shadow:4px 1px 20px black;
+}
+
 
 .notfound{
 
