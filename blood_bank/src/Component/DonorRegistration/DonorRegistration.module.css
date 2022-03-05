@@ -1,0 +1,52 @@
+
+
+
+.sendRequest{
+    width : 60% ; 
+    margin : auto;
+    text-align : center ; 
+    margin:auto; margin-top:10px; 
+
+}
+
+.table_img{
+    display : flex; 
+    justify-content : space-evenly ; 
+    align-items : center ; 
+    padding : 20px 0 ; 
+}
+
+.imgSaid{
+    width : 25% ; 
+}
+.tableCon{
+    width : 70% ; 
+}
+
+.imgSaid img {
+    width : 100% ; 
+}
+
+
+.table {  
+    width : 100% ; 
+    margin :30px auto ; 
+}
+
+.table tr{
+    display : flex ; 
+    justify-content : space-between ; 
+    padding : 15px 0 ; 
+}
+
+.table tr label {
+  
+    padding : 0 15px  ; 
+}
+
+ 
+
+
+
+ 
+
