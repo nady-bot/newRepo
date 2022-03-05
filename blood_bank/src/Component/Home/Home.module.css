@@ -1,0 +1,48 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+h3 {
+    font-size: medium;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+.sliderUp p {
+    color: #A57873;
+}
+
+.limit {
+    width: 100%;
+    height: 100%;
+    position: relative;
+    overflow: hidden;
+}
+
+.sliderUp {
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    /**/
+    position: absolute;
+    top: 100%;
+    left: 0%;
+    /**/
+    animation-name: sliderUp;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+    z-index: 0;
+}
+
+@keyframes sliderUp {
+    from {
+        top: 100%;
+    }
+    to {
+        top: -100%;
+    }
+}
