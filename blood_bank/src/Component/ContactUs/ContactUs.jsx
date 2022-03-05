@@ -3,7 +3,7 @@ import React from 'react'
 export default function ContactUs() {
   return ( <>
     <div className="container mx-auto p-5 ">
-      <form action="" className='p-5 bg-light'>
+      <form action="" className='p-5 border-sherd box-sherd  bg-sherd'>
       <label htmlFor="donor-name" className='fw-bold'> Name : </label>
         <input type="text" name="donor-name" id="donor-name" className='form-control my-2'/>
         <label htmlFor="donor-Email" className='fw-bold'> E-mail : </label>
@@ -20,28 +20,12 @@ export default function ContactUs() {
         <div className='text-center'>
         
 
-        <button className=' btn btn-danger my-5' > Send Us</button>
+        <button className='w-50  btn btn-danger my-5' > Send Us</button>
         
         </div>
 
 
-
-
-
-
-
-
-
-
-
       </form>
-
-
-
-
-
-
-
 
 
     </div>
