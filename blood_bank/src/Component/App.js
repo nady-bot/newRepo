@@ -29,6 +29,7 @@ function App() {
     <Navbar />
     <Routes>
       
+      <Route path = "/" element  = {<DonorRegistration />}>  </Route>
       <Route path = "about" element  = {<About />}>  </Route>
       <Route path = "home" element  = {<Home />}>  </Route>
       <Route path = "donor_registration" element  = {<DonorRegistration />}>  </Route>
