@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/nady-bot/newRepoBuild/static/css/main.773f8479.css",
-    "main.js": "/nady-bot/newRepoBuild/static/js/main.447d3dba.js",
-    "static/media/image-two.png": "/nady-bot/newRepoBuild/static/media/image-two.0e81d87b26e7ccaf57f8.png",
-    "static/media/image-three.png": "/nady-bot/newRepoBuild/static/media/image-three.2f9980c65cd0c523ca99.png",
-    "static/media/sidebanner (1).jpg": "/nady-bot/newRepoBuild/static/media/sidebanner (1).d1efcace59227e4db805.jpg",
-    "static/media/image-one.jpg": "/nady-bot/newRepoBuild/static/media/image-one.a5d3ab7ca98b530cdb87.jpg",
-    "static/media/s1.jpg": "/nady-bot/newRepoBuild/static/media/s1.c1c4f3a2d7577aba2344.jpg",
-    "static/media/s2.jpg": "/nady-bot/newRepoBuild/static/media/s2.162407e395bac5560d44.jpg",
-    "static/media/s4.jpg": "/nady-bot/newRepoBuild/static/media/s4.967d9a5b51d22f4dcfba.jpg",
-    "static/media/110655-404-not-found-Doofinder.jpg": "/nady-bot/newRepoBuild/static/media/110655-404-not-found-Doofinder.e0b6eae6563b96389e05.jpg",
-    "static/media/bd.jpg": "/nady-bot/newRepoBuild/static/media/bd.584c91a255cca4dc8f30.jpg",
-    "static/media/s3.jpg": "/nady-bot/newRepoBuild/static/media/s3.b2957f73088eee1d0769.jpg",
-    "static/media/login1.png": "/nady-bot/newRepoBuild/static/media/login1.aadc3709eff7d6a1c188.png",
-    "static/media/logo.png": "/nady-bot/newRepoBuild/static/media/logo.fabe2736974c69821bd6.png",
-    "static/media/login2.png": "/nady-bot/newRepoBuild/static/media/login2.d8d42bc556e866083de9.png",
-    "static/media/about.png": "/nady-bot/newRepoBuild/static/media/about.f48fc75a0a2f22cd94c7.png",
-    "static/media/brequest.png": "/nady-bot/newRepoBuild/static/media/brequest.8121a2f6fc41b3a6ae8e.png",
-    "static/media/search.png": "/nady-bot/newRepoBuild/static/media/search.2fb6d2c5a496d10fd7ae.png",
-    "index.html": "/nady-bot/newRepoBuild/index.html",
-    "main.773f8479.css.map": "/nady-bot/newRepoBuild/static/css/main.773f8479.css.map",
-    "main.447d3dba.js.map": "/nady-bot/newRepoBuild/static/js/main.447d3dba.js.map"
+    "main.css": "/newRepoBuild/static/css/main.773f8479.css",
+    "main.js": "/newRepoBuild/static/js/main.f9e2bcdf.js",
+    "static/media/image-two.png": "/newRepoBuild/static/media/image-two.0e81d87b26e7ccaf57f8.png",
+    "static/media/image-three.png": "/newRepoBuild/static/media/image-three.2f9980c65cd0c523ca99.png",
+    "static/media/sidebanner (1).jpg": "/newRepoBuild/static/media/sidebanner (1).d1efcace59227e4db805.jpg",
+    "static/media/image-one.jpg": "/newRepoBuild/static/media/image-one.a5d3ab7ca98b530cdb87.jpg",
+    "static/media/s1.jpg": "/newRepoBuild/static/media/s1.c1c4f3a2d7577aba2344.jpg",
+    "static/media/s2.jpg": "/newRepoBuild/static/media/s2.162407e395bac5560d44.jpg",
+    "static/media/s4.jpg": "/newRepoBuild/static/media/s4.967d9a5b51d22f4dcfba.jpg",
+    "static/media/110655-404-not-found-Doofinder.jpg": "/newRepoBuild/static/media/110655-404-not-found-Doofinder.e0b6eae6563b96389e05.jpg",
+    "static/media/bd.jpg": "/newRepoBuild/static/media/bd.584c91a255cca4dc8f30.jpg",
+    "static/media/s3.jpg": "/newRepoBuild/static/media/s3.b2957f73088eee1d0769.jpg",
+    "static/media/login1.png": "/newRepoBuild/static/media/login1.aadc3709eff7d6a1c188.png",
+    "static/media/logo.png": "/newRepoBuild/static/media/logo.fabe2736974c69821bd6.png",
+    "static/media/login2.png": "/newRepoBuild/static/media/login2.d8d42bc556e866083de9.png",
+    "static/media/about.png": "/newRepoBuild/static/media/about.f48fc75a0a2f22cd94c7.png",
+    "static/media/brequest.png": "/newRepoBuild/static/media/brequest.8121a2f6fc41b3a6ae8e.png",
+    "static/media/search.png": "/newRepoBuild/static/media/search.2fb6d2c5a496d10fd7ae.png",
+    "index.html": "/newRepoBuild/index.html",
+    "main.773f8479.css.map": "/newRepoBuild/static/css/main.773f8479.css.map",
+    "main.f9e2bcdf.js.map": "/newRepoBuild/static/js/main.f9e2bcdf.js.map"
   },
   "entrypoints": [
     "static/css/main.773f8479.css",
-    "static/js/main.447d3dba.js"
+    "static/js/main.f9e2bcdf.js"
   ]
 }
