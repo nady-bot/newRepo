@@ -5,7 +5,7 @@ import style from './Camps.module.css';
 export default function Camps() {
   return (
 
-    <div className="container-fluid">
+    <div className="container my-5    bg-sherd border-sherd box-sherd ">
       <div className="row">
         <div className="col-md-4">
           <div className={`text-center m-3 ${style.bloodCamp}` }>
