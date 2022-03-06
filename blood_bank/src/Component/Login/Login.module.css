@@ -1,1 +1,25 @@
 
+.login{
+    width : 50% ; 
+}
+
+.login_form{
+    
+    display : flex ; 
+    justify-content : space-around ; 
+    align-items : center; 
+}
+
+ 
+
+ 
+
+.div_img2{
+    width : calc(100%/3 ) ; 
+}
+
+ 
+
+.login_form table td {
+    padding : 10px 0   ;  
+}
